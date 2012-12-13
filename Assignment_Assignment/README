@@ -1,0 +1,11 @@
+Yosub Lee [9054-93485]	
+	since I took only two classes of C++ course and I still have only basic skill and comprehension of programming, I didn't know what I could do with C++ language or python. through this semester, one thing I was interested was interaction between command line and c++ or python functions. for example, I could open and display a manual of command 'man', even using some other commands I could find specific word in the manual. I think it was not an interesting technic for other people, but for me, it was pretty interesting and made me think about how c language could be more useful. Therefntaore, I want to suggest an assignment about desigining program which is to search and sort manual or any input documents. the programm has to have functions like reading file/manual, dispaly, search specific word and sentences including the specific words and store to the file.
+
+	if total score is assummed 30 points, 'functionality' would be the part that highest percentage points. so for example, I want to assign points like following..
+Syntax = 5 points
+contents = 5 points
+Style = 10 points
+functionality = 10 points
+
+	programm should be compiled correctly. students' programms have at least three of those functions. if there is an error while compiling, student will get up to 50% of total score depending on their syntax and contents.
+	
